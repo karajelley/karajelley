@@ -17,11 +17,11 @@ Hi, I'm Kara, a UX Engineer with a unique blend of skills in design, development
 
 ## 📈 My GitHub Stats
 
-![Kara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karajelley&show_icons=true&count_private=true&theme=radical)
+![Kara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karajelley&show_icons=true&count_private=true&theme=cobalt)
 
 ## 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karajelley&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karajelley&layout=compact&theme=cobalt)
 
 ## 📬 Let's Connect
 - Email: [karajelley@gmail.com](mailto:karajelley@gmail.com)
