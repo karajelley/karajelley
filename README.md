@@ -39,7 +39,7 @@ I’m seeking opportunities to contribute as a UX Engineer, front-end developer,
 
 ## 📈 My GitHub Stats
 
-![Kara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaraDev&show_icons=true)
+![Kara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karajelley&show_icons=true)
 
 ## 📬 Let's Connect
 - Email: [karajelley@gmail.com](mailto:karajelley@gmail.com)
